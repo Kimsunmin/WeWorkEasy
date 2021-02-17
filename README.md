@@ -2,6 +2,7 @@
 
 **2021. 01. 25 Start!**  
 **팀원 : 김선민, 이승민, 임희원, 윤예나, 장영우**   
+
 ### 사용기술
 * java, servlet
 * html, css, javascript, bootStrap
@@ -11,5 +12,6 @@
 ### 라이브러리
 * gson
 * kakao
-
+* fullCalendar
+* 
 
