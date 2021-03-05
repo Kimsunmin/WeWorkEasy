@@ -15,5 +15,4 @@
 * gson
 * kakao
 * fullCalendar
-* 
 
